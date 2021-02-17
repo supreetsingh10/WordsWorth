@@ -1,5 +1,22 @@
 # WordsWorth
 
+Steps to get the program running :  
+
+Clone the directory 
+
+git clone https://github.com/supreetsingh10/WordsWorth/
+
+cd WordsWorth 
+
+Make 
+
+./wordfreak aladdin.tex 
+
+vim output.txt 
+
+
+About the program: 
+
 This is the code that will sort all the words that are present in the text files. 
 
 It will take inputs for the text files from the command line and then sort the words. It does the sorting using the binary search tree. The binary search tree will 
